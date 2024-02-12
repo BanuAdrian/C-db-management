@@ -1,0 +1,4 @@
+id nickname data_creare_cont balanta_coins level exp_points
+0 Andrei 21/11/2022 61 30 29
+1 Marius 20/05/2021 50 70 139
+2 Adrian 04/05/2016 1200 11 350
