@@ -1,7 +1,6 @@
-# Computer Programming Course Project
+# C Database Management
 
-- Developed a C-based application to oversee and maintain a game’s players database
-- Implemented diverse commands enabling users to perform CRUD operations, account transfers and simulate the SQL Count() function for efficient database management
+- Wrote an application in C which allows users to implement and manage a game’s players database using CRUD operations and other features (e.g. account transfers)
 - Provided users with access to each command description and syntax using the "help" keyword
 - Applied fundamental concepts of the C programming language, including file handling, pointers and dynamic memory allocation
 
